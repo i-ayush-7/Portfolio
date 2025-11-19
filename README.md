@@ -1,10 +1,15 @@
 # Portfolio
 
-# **[AYUSH SHUKLA]**
+**AYUSH SHUKLA]**
+
 [Greater Noida, Uttar Pradesh]
+
 **WhatsApp:** [Link](https://wa.me/qr/ZES2L3UBP2WYO1)
+
 **Email:** [Link](as1482003@gmail.com)
+
 **LinkedIn:** [Link to Profile]
+
 **GitHub:** [Link to GitHub](https://github.com/i-ayush-7)
 
 ### **PROFESSIONAL SUMMARY**
