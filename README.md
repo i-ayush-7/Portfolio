@@ -2,7 +2,7 @@
 
 # **[AYUSH SHUKLA]**
 [Greater Noida, Uttar Pradesh] | [+91 7678840414] | [as1482003@gmail.com]
-**LinkedIn:** [Link to Profile] | **GitHub:** [https://github.com/i-ayush-7]
+**LinkedIn:** [Link to Profile] | **GitHub:** [GitHub](https://github.com/i-ayush-7)
 
 ### **PROFESSIONAL SUMMARY**
 Analytical and detail-oriented **3rd Year Computer Science & Engineering Student** with 2 years of self-directed experience in Data Analysis and Data Science. Proficient in the full data lifecycle, from extraction (SQL) to cleaning (Python/Pandas) and visualization (Power BI/Excel). Successfully built and deployed 10+ data projects, solving complex problems through statistical analysis and dashboarding. Seeking to leverage strong programming and business intelligence skills as a Data Analyst.
